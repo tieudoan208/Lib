@@ -1,0 +1,5 @@
+E:\Code\Khac\TV\Lib\Lib\bin\Release\Lib.dll
+E:\Code\Khac\TV\Lib\Lib\bin\Release\Lib.pdb
+E:\Code\Khac\TV\Lib\Lib\bin\Release\Oracle.DataAccess.dll
+E:\Code\Khac\TV\Lib\Lib\obj\Release\Lib.dll
+E:\Code\Khac\TV\Lib\Lib\obj\Release\Lib.pdb
